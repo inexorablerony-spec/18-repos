@@ -1,0 +1,74 @@
+[
+  {
+    "display_name": "TeenXY",
+    "value": "teen",
+    "version": "0.1",
+    "icon": "https://teenxy.com/static/favicon/android-chrome-192x192.png",
+    "type": "global",
+    "category": "18+ movie",
+    "disabled": false
+  },
+  {
+    "display_name": "XVideos",
+    "value": "xvideos",
+    "version": "0.1",
+    "icon": "https://assets-cdn77.xvideos-cdn.com/v3/img/skins/default/logo/xv.black.180.png",
+    "type": "global",
+    "category": "18+ movie",
+    "disabled": false
+  },
+  {
+    "display_name": "XNXX",
+    "value": "xnxx",
+    "version": "0.1",
+    "icon": "https://www.xnxx.com/apple-touch-icon.png",
+    "type": "global",
+    "category": "18+ movie",
+    "disabled": false
+  },
+  {
+    "display_name": "Xhamster",
+    "value": "xhamster",
+    "version": "0.2",
+    "icon": "https://static.xhpingcdn.com/xh-desktop/images/favicon/favicon-v2-180x180.png?v=1",
+    "type": "global",
+    "category": "18+ movie",
+    "disabled": false
+  },
+  {
+    "display_name": "Eporner",
+    "value": "eporner",
+    "version": "0.1",
+    "icon": "https://www.eporner.com/favicon.ico",
+    "type": "global",
+    "category": "18+ movie",
+    "disabled": true
+  },
+  {
+    "display_name": "Erome",
+    "value": "erome",
+    "version": "0.1",
+    "icon": "https://www.erome.com/favicon.ico",
+    "type": "global",
+    "category": "18+ movie",
+    "disabled": true
+  },
+  {
+    "display_name": "HQPorner",
+    "value": "hqporner",
+    "version": "0.1",
+    "icon": "https://hqporner.com/favicon.ico",
+    "type": "global",
+    "category": "18+ movie",
+    "disabled": true
+  },
+  {
+    "display_name": "TNAFlix",
+    "value": "tnaflix",
+    "version": "0.1",
+    "icon": "https://www.tnaflix.com/favicon.ico",
+    "type": "global",
+    "category": "18+ movie",
+    "disabled": true
+  }
+]
